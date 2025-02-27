@@ -1,0 +1,16 @@
+.header{
+    text-align: center;
+    width: 80%;
+    margin: 40px auto 10px;
+}
+.header h1{
+    font-size: 1.85rem;
+    font-weight: 500;
+    color: #f9f4da;
+}
+.header p{
+    font-size:0.95rem;
+    max-width: 350px;
+    margin: 5px auto;
+    color: #8e8e8e;
+}
